@@ -1,0 +1,10 @@
+img {
+    max-width: 100%;
+}
+
+#map {
+    height: 70%;
+    width: 100%;
+    max-width: 100%;
+    max-height: 70%;
+}

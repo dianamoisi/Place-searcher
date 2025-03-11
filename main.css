@@ -1,0 +1,16 @@
+.font {
+    font-family: "Cormorant Garamond", sans-serif;
+}
+
+p {
+    font-family: "Cormorant Garamond", sans-serif;
+}
+
+a p{
+    padding: 0.25rem 6rem;
+    background-color: #FFF;
+    width: 100%;
+    max-width: 100%;
+    margin-top: 1rem;
+    color: #000;
+}
