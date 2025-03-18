@@ -1,3 +1,1 @@
-
-In this project I made a website using Google API, java script, bootstrap and jason format, and I made a page where you can search for a place (with autocomplete option) and if you search for it it will give you some pictures, 
-a map of that place and some information. It was a project that I did during an internship and it was a nice challenge.
+In this project, I developed a website using Google API, JavaScript, Bootstrap, and the JSON format. I created a page where users can search for a location with an autocomplete feature. Once a location is selected, the page displays relevant images, a map of the place, and additional information. This project was part of an internship, and it was an exciting challenge to work on.
